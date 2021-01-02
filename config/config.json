@@ -1,0 +1,18 @@
+{
+
+    "server" : {
+      "baseURL" : "http://localhost:45564",
+      "port" : 45564,
+      "host" : "127.0.0.1"
+    },
+    "database": {
+      "mongo": {
+        "name": "ONLINE_RENT_PLATFORM",
+        "host": "127.0.0.1",
+        "port": 27017,
+        "username" : "",
+        "password" : ""
+      }
+    }
+
+}
